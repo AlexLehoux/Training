@@ -1,0 +1,14 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+C'est beaucoup plus facile de trouver les bugs, sauvent beaucoup de temps et d energie. gain de productivite accru et permet de mieux trouver les erreurs de frappe
+
+
+####################################################################
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Permet de facilement comparer nos changement et pouvoir facilement revenir en arriere. Permet aussi de ne pas tout mettre nos oeufs dans le meme panier si un probleme arrive. 
+
+#####################################################################
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+On pourrait se retrouver avec trop de save version et se perdre parmis ces derniers. On est sur de ne pas perdre de quoi. A la main on peut facilement oublier ce qui serait dramatique. Mais on peut mieux controler nos saves
