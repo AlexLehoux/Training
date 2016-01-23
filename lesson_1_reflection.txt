@@ -12,3 +12,6 @@ Permet de facilement comparer nos changement et pouvoir facilement revenir en ar
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 On pourrait se retrouver avec trop de save version et se perdre parmis ces derniers. On est sur de ne pas perdre de quoi. A la main on peut facilement oublier ce qui serait dramatique. Mais on peut mieux controler nos saves
+
+
+1-2-3
